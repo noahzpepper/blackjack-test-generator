@@ -1,0 +1,44 @@
+Blackjack Basic Strategy Test				Name: _________________________
+Version sample
+
+Fill in the blanks with the corresponding basic strategy play.
+
+A,2 vs 8:    _______		A,A vs 4:    _______		11 vs 8:     _______
+
+5,5 vs 4:    _______		5,5 vs 6:    _______		11 vs 7:     _______
+
+A,6 vs 9:    _______		17 vs 6:     _______		A,9 vs A:    _______
+
+18 vs 5:     _______		16 vs 3:     _______		A,4 vs 8:    _______
+
+A,A vs 9:    _______		A,3 vs 4:    _______		10,10 vs 5:  _______
+
+A,6 vs 10:   _______		8,8 vs 9:    _______		6,6 vs 2:    _______
+
+A,8 vs 2:    _______		4,4 vs 7:    _______		12 vs 9:     _______
+
+2,2 vs 8:    _______		A,3 vs 10:   _______		A,3 vs 3:    _______
+
+A,3 vs 2:    _______		6,6 vs A:    _______		12 vs A:     _______
+
+8 vs 6:      _______		2,2 vs 10:   _______		14 vs 7:     _______
+
+A,4 vs 4:    _______		2,2 vs 6:    _______		8 vs 8:      _______
+
+A,3 vs 6:    _______		17 vs 2:     _______		15 vs 6:     _______
+
+13 vs 3:     _______		8 vs 3:      _______		13 vs 8:     _______
+
+5,5 vs 8:    _______		5,5 vs 3:    _______		3,3 vs 10:   _______
+
+15 vs 8:     _______		10 vs 5:     _______		10,10 vs 9:  _______
+
+14 vs 6:     _______		6,6 vs 7:    _______		8 vs 9:      _______
+
+Legend:
+Hit: H		Stand: S		Split: P
+Double if allowed, otherwise hit: Dh
+Double if allowed, otherwise stand: Ds
+Surrender if allowed, otherwise hit: Rh
+Surrender if allowed, otherwise stand: Rs
+Surrender if allowed, otherwise split: Rp

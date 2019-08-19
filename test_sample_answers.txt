@@ -1,0 +1,44 @@
+Blackjack Basic Strategy Test				Name: _________Answers_________
+Version sample
+
+Fill in the blanks with the corresponding basic strategy play.
+
+A,2 vs 8:    ___H___		A,A vs 4:    ___P___		11 vs 8:     __Dh___
+
+5,5 vs 4:    __Dh___		5,5 vs 6:    __Dh___		11 vs 7:     __Dh___
+
+A,6 vs 9:    ___H___		17 vs 6:     ___S___		A,9 vs A:    ___S___
+
+18 vs 5:     ___S___		16 vs 3:     ___S___		A,4 vs 8:    ___H___
+
+A,A vs 9:    ___P___		A,3 vs 4:    ___H___		10,10 vs 5:  ___S___
+
+A,6 vs 10:   ___H___		8,8 vs 9:    ___P___		6,6 vs 2:    ___P___
+
+A,8 vs 2:    ___S___		4,4 vs 7:    ___H___		12 vs 9:     ___H___
+
+2,2 vs 8:    ___H___		A,3 vs 10:   ___H___		A,3 vs 3:    ___H___
+
+A,3 vs 2:    ___H___		6,6 vs A:    ___H___		12 vs A:     ___H___
+
+8 vs 6:      ___H___		2,2 vs 10:   ___H___		14 vs 7:     ___H___
+
+A,4 vs 4:    __Dh___		2,2 vs 6:    ___P___		8 vs 8:      ___H___
+
+A,3 vs 6:    __Dh___		17 vs 2:     ___S___		15 vs 6:     ___S___
+
+13 vs 3:     ___S___		8 vs 3:      ___H___		13 vs 8:     ___H___
+
+5,5 vs 8:    __Dh___		5,5 vs 3:    __Dh___		3,3 vs 10:   ___H___
+
+15 vs 8:     ___H___		10 vs 5:     __Dh___		10,10 vs 9:  ___S___
+
+14 vs 6:     ___S___		6,6 vs 7:    ___H___		8 vs 9:      ___H___
+
+Legend:
+Hit: H		Stand: S		Split: P
+Double if allowed, otherwise hit: Dh
+Double if allowed, otherwise stand: Ds
+Surrender if allowed, otherwise hit: Rh
+Surrender if allowed, otherwise stand: Rs
+Surrender if allowed, otherwise split: Rp
