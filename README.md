@@ -15,6 +15,6 @@ Clone or download this repository, then run the following command:
 ```python3 blackjack_test_generator.py [--size SIZE] [--versions VERSIONS]```
 
 | Argument | Description | Default value |
-|----|----|
+|----|----|----|
 | size | number of questions to generate | 48 |
 | versions | comma separated list of versions | A |
